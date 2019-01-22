@@ -12,8 +12,8 @@ import org.apache.spark.sql.types._
 //Hello cava
 object StreamingSample extends App {
 
-  val spark = SparkSession.builder.appName("Spark-Kafka-Integration").master("local").getOrCreate()
-  spark.sparkContext.setLogLevel("ERROR")
+  //val spark = SparkSession.builder.appName("Spark-Kafka-Integration").master("local").getOrCreate()
+  //spark.sparkContext.setLogLevel("ERROR")
 
   val df = spark
 
