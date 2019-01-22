@@ -9,7 +9,7 @@ import org.apache.spark.sql.catalyst.encoders.RowEncoder
 import org.apache.spark.sql.functions._
 import org.apache.spark.sql.types._
 
-
+//Hello cava
 object StreamingSample extends App {
 
   val spark = SparkSession.builder.appName("Spark-Kafka-Integration").master("local").getOrCreate()
