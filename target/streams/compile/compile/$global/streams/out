@@ -1,0 +1,13 @@
+[0m[[0m[33mwarn[0m] [0m[0m/devs/scala/workspace/Kafka_For_Kafka/src/main/scala/fr/ok/KafkaConsumer.scala:6:42: imported `KafkaConsumer' is permanently hidden by definition of object KafkaConsumer in package ok[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.apache.kafka.clients.consumer.KafkaConsumer[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/devs/scala/workspace/Kafka_For_Kafka/src/main/scala/fr/ok/KafkaConsumerToUpper.scala:6:42: imported `KafkaConsumer' is permanently hidden by definition of object KafkaConsumer in package ok[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.apache.kafka.clients.consumer.KafkaConsumer[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                         ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/devs/scala/workspace/Kafka_For_Kafka/src/main/scala/fr/ok/KafkaConsumerToUpper.scala:7:43: imported `KafkaProducer' is permanently hidden by definition of object KafkaProducer in package ok[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/devs/scala/workspace/Kafka_For_Kafka/src/main/scala/fr/ok/KafkaProducer.scala:5:43: imported `KafkaProducer' is permanently hidden by definition of object KafkaProducer in package ok[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m
